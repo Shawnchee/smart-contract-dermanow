@@ -20,7 +20,7 @@ This project demonstrates a decentralized application for managing charity miles
 ## Installation
 1. Clone the repository:
    ```shell
-   git clone <repository_url>
+   git clone https://github.com/Shawnchee/smart-contract-dermanow.git
    cd smartContract
    ```
 2. Install dependencies:
